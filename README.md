@@ -1,2 +1,2 @@
 # Zangflix-aluraflix-
-ma versão diferente do aluraflix
+uma versão diferente do aluraflix
